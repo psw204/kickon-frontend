@@ -7,6 +7,8 @@
 
 > 참여형 축구 커뮤니티
 
+[디자인 시안 보기 (Figma)](https://www.figma.com/design/x9wbW2UCBiRpgWwiH1Idgg/kickon-frontend?node-id=0-1&t=5ZTph6WCKxmV5Ewq-1)
+
 ---
 <br>
 
@@ -33,7 +35,6 @@
    * 중고 거래 기능 (가격/연락처 입력)
    * 팀별 게시글 및 피드 필터링
 
-**디자인 시안 보기:** [Figma 링크](https://www.figma.com/design/x9wbW2UCBiRpgWwiH1Idgg/kickon-frontend?node-id=0-1&t=5ZTph6WCKxmV5Ewq-1)
 ---
 <br>
 
