@@ -5,7 +5,7 @@
 </div>
 
 
-> 참여형 축구 커뮤니티
+> 참여형 축구 커뮤니티 (🏆 프로젝트 2등)
 
 [디자인 시안 보기 (Figma)](https://www.figma.com/design/x9wbW2UCBiRpgWwiH1Idgg/kickon-frontend?node-id=0-1&t=5ZTph6WCKxmV5Ewq-1)
 
