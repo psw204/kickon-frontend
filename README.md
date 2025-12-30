@@ -1,8 +1,16 @@
 # ⚽ [KICK-ON](https://dev.kickon.net/)
 
-<div align="center">
-  <img src="./src/assets/logo_white.svg" width="420" alt="KickOn Logo"/>
-</div>
+![최종결가 발표자료_page-0001](https://github.com/user-attachments/assets/8bd85549-2085-4c98-a27c-96c321a8b0ae)
+![최종결가 발표자료_page-0002](https://github.com/user-attachments/assets/95912a39-34ba-48ff-a739-647ed735655f)
+![최종결가 발표자료_page-0003](https://github.com/user-attachments/assets/324de23e-ab56-42e7-b9ba-7b0bc40db9d8)
+![최종결가 발표자료_page-0005](https://github.com/user-attachments/assets/5c7a2bab-1221-4a4c-86fa-6f2409ff4d57)
+![최종결가 발표자료_page-0006](https://github.com/user-attachments/assets/e54f862f-0da2-4e55-a36e-374885c12dc9)
+![최종결가 발표자료_page-0007](https://github.com/user-attachments/assets/5e2e9b4a-4943-4ec0-8deb-ab9810325f85)
+![최종결가 발표자료_page-0008](https://github.com/user-attachments/assets/8128a0a4-3c08-4045-9085-723a4ce31a9d)
+![최종결가 발표자료_page-0012](https://github.com/user-attachments/assets/24eef543-cec9-41bb-a8c3-716ce28be080)
+![최종결가 발표자료_page-0013](https://github.com/user-attachments/assets/e0e8f769-1a1e-4386-a059-3ce876884092)
+![최종결가 발표자료_page-0014](https://github.com/user-attachments/assets/c497ba72-9b5a-4e76-8fcf-a4c9d74a7303)
+![최종결가 발표자료_page-0015](https://github.com/user-attachments/assets/dc1e8473-9412-4f39-a730-3f40d318e5f9)
 
 
 > 참여형 축구 커뮤니티 (🏆 프로젝트 2등)
@@ -39,7 +47,7 @@
 <br>
 
 # 4. 🏗️ 서비스 아키텍처
-첨부 예정
+![최종결가 발표자료_page-0009](https://github.com/user-attachments/assets/584e4074-cf6e-43e0-92bb-e5ea2da2a9b5)
 
 ---
 <br>
